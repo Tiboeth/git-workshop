@@ -8,5 +8,5 @@ This repository is used for a beginner Git workshop.
 - `hobby.txt`
 - `weekend-plan.txt`
 ## Student information
-Name: Tibebe Reta
-Group: Smart Automation
+- Name: Tibebe Reta
+- Group: Smart Automation
